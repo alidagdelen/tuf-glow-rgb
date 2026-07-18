@@ -19,7 +19,8 @@ Built with **Python** and **Textual**.
 
 ## 📸 Screenshot
 
-> Coming soon...
+
+![TUF-Glow-RGB](assets/screenshot.png)
 
 ---
 
